@@ -102,5 +102,16 @@ website/
 - **Principle II (Beginner-Friendly Approach)**: PASS - Quickstart guide provides clear setup instructions
 - **Principle III (Docusaurus Documentation Excellence)**: PASS - Leveraged Docusaurus features for navigation and search
 - **Principle IV (Modular Content Design)**: PASS - Content structure supports independent consumption
-- **Principle V (Real-World Application Focus)**: PASS - Content will include case studies and examples
+- **Principle V (Real-World Application Focus)**: PASS - Content includes case studies and examples
 - **Principle VI (Progressive Complexity)**: PASS - Chapter and lesson structure supports progression
+
+## Additional Content Requirements
+
+Based on the expanded specification, the following additional modules have been incorporated into the Physical AI Book:
+
+- **Module 1: The Robotic Nervous System (ROS 2)**: Content on ROS 2 Nodes, Topics, Services, and bridging Python Agents to ROS controllers
+- **Module 2: The Digital Twin (Gazebo & Unity)**: Content on physics simulation, environment building, and sensor simulation
+- **Module 3: The AI-Robot Brain (NVIDIA Isaac™)**: Content on advanced perception, Isaac Sim, and navigation
+- **Module 4: Vision-Language-Action (VLA)**: Content on integrating LLMs with robotics and voice-to-action systems
+
+These modules have been implemented as separate documentation pages with detailed content, hands-on examples, and exercises.

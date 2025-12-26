@@ -33,6 +33,17 @@ const sidebars = {
           ],
         },
         'physical-ai-book/style-guide',
+        {
+          type: 'category',
+          label: 'Curriculum Modules',
+          items: [
+            'physical-ai-book/curriculum-overview',
+            'physical-ai-book/module-1-ros2',
+            'physical-ai-book/module-2-gazebo-unity',
+            'physical-ai-book/module-3-isaac',
+            'physical-ai-book/module-4-vla'
+          ],
+        },
         // Future chapters will be added here
       ],
     },

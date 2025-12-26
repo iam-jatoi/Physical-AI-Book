@@ -67,6 +67,7 @@ website/
 ├── docs/
 │   └── physical-ai-book/  # Main book content
 │       ├── intro.md       # Book introduction
+│       ├── style-guide.md # Style guide for content formatting
 │       └── chapter-1/
 │           ├── index.md   # Chapter 1 overview
 │           ├── lesson-1.md # Lesson 1.1: Foundations of Physical AI
@@ -76,6 +77,27 @@ website/
 └── tests/                 # Content and functionality tests
     └── content-validation/ # Content quality checks
 ```
+
+## Additional Modules
+
+The Physical AI Book serves as an introduction to a comprehensive curriculum that includes additional modules:
+
+- **Module 1: The Robotic Nervous System (ROS 2)**: Middleware for robot control, including ROS 2 Nodes, Topics, Services, and bridging Python Agents to ROS controllers
+- **Module 2: The Digital Twin (Gazebo & Unity)**: Physics simulation and environment building, including simulating physics, gravity, collisions, and sensor simulation
+- **Module 3: The AI-Robot Brain (NVIDIA Isaac™)**: Advanced perception and training using NVIDIA Isaac Sim and Isaac ROS for hardware-accelerated VSLAM and navigation
+- **Module 4: Vision-Language-Action (VLA)**: The convergence of LLMs and Robotics, including voice-to-action systems and cognitive planning
+
+## Curriculum Structure
+
+The complete curriculum is organized as follows:
+
+- **Chapter 1**: Introduction to Physical AI (Foundations, Sensors, Actuators)
+- **Module 1**: The Robotic Nervous System (ROS 2)
+- **Module 2**: The Digital Twin (Gazebo & Unity)
+- **Module 3**: The AI-Robot Brain (NVIDIA Isaac™)
+- **Module 4**: Vision-Language-Action (VLA)
+
+Each module includes detailed lessons, hands-on examples, exercises, and expected outcomes to ensure comprehensive learning.
 
 ## Development Scripts
 

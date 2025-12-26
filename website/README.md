@@ -25,6 +25,18 @@ The book is organized into chapters and lessons that build upon each other:
   - Lesson 1.2: Sensors and Perception
   - Lesson 1.3: Actuators and Control
 
+## Curriculum Structure
+
+This book serves as an introduction to a comprehensive Physical AI curriculum that includes additional modules:
+
+- **Chapter 1**: Introduction to Physical AI (Foundations, Sensors, Actuators)
+- **Module 1**: The Robotic Nervous System (ROS 2) - Middleware for robot control, including ROS 2 Nodes, Topics, Services, and bridging Python Agents to ROS controllers
+- **Module 2**: The Digital Twin (Gazebo & Unity) - Physics simulation and environment building, including simulating physics, gravity, collisions, and sensor simulation
+- **Module 3**: The AI-Robot Brain (NVIDIA Isaac™) - Advanced perception and training using NVIDIA Isaac Sim and Isaac ROS for hardware-accelerated VSLAM and navigation
+- **Module 4**: Vision-Language-Action (VLA) - The convergence of LLMs and Robotics, including voice-to-action systems and cognitive planning
+
+Each module includes detailed lessons, hands-on examples, exercises, and expected outcomes to ensure comprehensive learning.
+
 ## Getting Started
 
 To run this documentation site locally:
